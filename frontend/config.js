@@ -1,5 +1,5 @@
 window.SERA_CONFIG={
-  API_BASE:'http://127.0.0.1:8000',
+  API_BASE:'https://sera-be.vercel.app/',
   SUPABASE_URL:'https://dpsnnprxcgodbypimpyh.supabase.co',
   SUPABASE_ANON_KEY:'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRwc25ucHJ4Y2dvZGJ5cGltcHloIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODc3Mzg0OTQsImV4cCI6MjEwMzMxNDQ5NH0.q1JQiTF0WOOjSJ6e_V2Q0sebJUNKP-azFXnfpYCAgo0'
 };
